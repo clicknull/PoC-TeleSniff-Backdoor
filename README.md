@@ -1,5 +1,5 @@
 # PoC-TeleSniff-Backdoor
-Proof of concept written with Python ( and lldb OSX), get Telegram a authentification codes,Contact,last location of a locked telegram session and send it to command and control (C&C)
+Proof of concept written with Python ( and lldb OSX), get Telegram authentification codes,Contact,last location of a locked telegram session and send it to command and control (C&C)
 
 #### Important
 + This is only PoC (not a tool)
