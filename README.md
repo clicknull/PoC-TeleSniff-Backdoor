@@ -6,7 +6,8 @@ Proof of concept written with Python ( and lldb OSX), get Telegram authentificat
 + Written with Python (But is not a better language for this)
 
 #### Youtube
-+ In this video we just load a backdoor with a bash bunny (@hak5) and a HID attack
++ https://youtu.be/Eb0xolciM3w
++ In this video i just load a backdoor with a bash bunny (@hak5) (HID / Storage attack with a VID/PID spoofing)
 
 #### Schema
 
