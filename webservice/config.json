@@ -1,0 +1,15 @@
+{
+	"database":
+	{
+		"_username":"root",
+		"_password":"toor",
+		"_host":"localhost",
+		"_dbname":"hijackgram"
+	},
+	"icon":
+	{
+		"authcode":"privacy",
+		"contact":"call",
+		"location":"map"
+	}
+}
